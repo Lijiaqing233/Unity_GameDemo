@@ -14,6 +14,8 @@
 
 
 死亡効果：
+
+![gif](https://github.com/Lijiaqing233/GameDemo/blob/master/die.gif)
 　 原理：ノイズマップ　+　Alpha test
     ノイズマップから得られた数値を用いて、Alpha testをコントロールする。
    
