@@ -13,6 +13,10 @@
 
 
 
+
+
+
+
 死亡効果：
 
 ![gif](https://github.com/Lijiaqing233/GameDemo/blob/master/die.gif)
