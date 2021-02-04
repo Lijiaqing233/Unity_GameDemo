@@ -1,5 +1,11 @@
 # GameDemo（制作中）
 ツール&環境：unity(2019.4.16f1),Visual Studio 2019
+
+操作方法：
+wasd：移動
+左クリック：攻撃
+左shift:回避
+
 ![gif](https://github.com/Lijiaqing233/GameDemo/blob/master/Gamedemo.gif)
 
 --------------------------------------------------------------------------------------
