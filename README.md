@@ -4,7 +4,7 @@
 
 
 水面：
-   ![gif] (https://github.com/Lijiaqing233/GameDemo/blob/master/suimian.gif)
+   ![gif](https://github.com/Lijiaqing233/GameDemo/blob/master/suimian.gif)
    原理：水面のテクスチャ　+　ノイズマップ(法線テクスチャ)　+　環境テクスチャ（cubemap）　
 
 
