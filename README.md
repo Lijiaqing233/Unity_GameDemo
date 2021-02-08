@@ -1,6 +1,8 @@
 # GameDemo（制作中）
 ツール&環境：unity(2019.4.16f1),Visual Studio 2019
 
+執行ファイル：https://github.com/Lijiaqing233/Unity_GameDemo/tree/master/.vs/exe_file
+
 実行環境：win10  解像度:1920*1080
 
 操作方法：
